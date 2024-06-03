@@ -15,8 +15,7 @@ Hi, I'm Nisal Wickramaarachchi, a driven software engineering undergraduate 🎓
 <a href="https://www.github.com/NisalWick2002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NisalWick2002?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://www.x.com/nisal200212" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/nisal200212?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 
 ### 💻🧠🛠️ Skills
