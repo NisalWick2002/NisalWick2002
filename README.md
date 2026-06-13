@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/NisalWick2002?logo=github&style=for
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,java,js,php,python,vscode,html,react,css,bootstrap,nodejs,mongodb,mysql,postgresql,figma,arduino,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python,lua,dart,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,jquery,flutter,mongodb,mysql,postgresql,sqlite,firebase,git,github,vscode,postman,vercel,figma,xd,androidstudio,linux,arduino,wordpress,tensorflow,pytorch,opencv,robloxstudio,blender,unity&perline=21" />
 </p>
 
 
