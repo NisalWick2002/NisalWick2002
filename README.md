@@ -1,10 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello... Welcome to my vibrant GitHub world!!!
 ==============================================================================================================================================
 
-Software Engineering | Game DEV
+Software Engineer | Game DEV
 ----------------------------------
 
-Hi, I'm Nisal Wickramaarachchi, a driven software engineering undergraduate 🎓. Equipped with a diverse skill set, I excel in problem-solving and developing a wide range of web-based applications. Proficient in managing both relational and NoSQL databases, I'm dedicated to continuous growth and innovation. Let's build the future together! 💻✨🚀
+Hi, I'm Nisal Wickramaarachchi, a First Class BSc (Hons) Software Engineering graduate with experience in full-stack web development, software development, and game development. I enjoy building scalable web-based applications, solving real-world problems, and working with both relational and NoSQL databases. I'm always learning, improving, and pushing myself to create better digital solutions. Let’s build something great together! 💻✨🚀
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [nisaldulneth@gmail.com](mailto:nisaldulneth@gmail.com)
