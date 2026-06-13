@@ -6,17 +6,19 @@ Software Engineer | Game DEV
 
 Hi, I'm Nisal Wickramaarachchi, a First Class BSc (Hons) Software Engineering graduate with experience in full-stack web development, software development, and game development. I enjoy building scalable web-based applications, solving real-world problems, and working with both relational and NoSQL databases. I'm always learning, improving, and pushing myself to create better digital solutions. Let’s build something great together! 💻✨🚀
 
-* 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [nisaldulneth@gmail.com](mailto:nisaldulneth@gmail.com)
-* 🧠  I'm learning HTML, CSS, PHP, JavaScript, Java, C, C++, Relational & NoSQL Databases.
-* 🤝  I'm open to collaborating on interesting projects & developing web applications.
-* ⚡  Crafting web magic, one line at a time. ✨💻
+<br/>
 
-<a href="https://www.github.com/NisalWick2002" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NisalWick2002?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🌍 Based in Sri Lanka
+* 🎓 First Class BSc (Hons) Software Engineering graduate
+* 💻 Focused on full-stack web development, software engineering, and game development
+* 🚀 Building scalable web applications, Roblox experiences, and real-world digital solutions
+* 🧠 Exploring AI-powered systems, privacy-focused tools, and modern web technologies
+* 🛠️ Comfortable with relational databases, NoSQL databases, clean code, and agile workflows
+* 🤝 Open to collaborating on exciting software, web, and game development projects
+* ✉️ Reach me at [nisaldulneth@gmail.com](mailto:nisaldulneth@gmail.com)
+* ⚡ Turning ideas into polished digital experiences, one commit at a time ✨
 
-
-
+<br/>
 
 ### 💻🧠🛠️ Skills
 
@@ -25,15 +27,20 @@ src="https://img.shields.io/github/followers/NisalWick2002?logo=github&style=for
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python,lua,dart,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,jquery,flutter,mongodb,mysql,postgresql,sqlite,firebase,git,github,vscode,postman,vercel,figma,xd,androidstudio,linux,arduino,wordpress,tensorflow,pytorch,opencv,robloxstudio,blender,unity&perline=21" />
 </p>
 
+<br/>
 
 ### 🌐🔗 Socials
 
 <p align="left"> <a href="https://discord.com/users/nixxal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/nisal.dulneth" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NisalWick2002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_nixxal_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nisal-wickramaarachchi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/24083978" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/nisal200212" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NisalWick2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NisalWick2002&theme=tokyonight&hide_border=false)<br/>
+<br/>
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=NisalWick2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NisalWick2002&theme=tokyonight&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NisalWick2002&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>
 
 ### 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy-one-liard.vercel.app/?username=NisalWick2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/NisalWick2002)
