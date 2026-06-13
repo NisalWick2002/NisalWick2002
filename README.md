@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello... Welcome to my vibrant GitHub world!!!
 ==============================================================================================================================================
 
-Software Engineering Undergraduate
+Software Engineering | Game DEV
 ----------------------------------
 
 Hi, I'm Nisal Wickramaarachchi, a driven software engineering undergraduate 🎓. Equipped with a diverse skill set, I excel in problem-solving and developing a wide range of web-based applications. Proficient in managing both relational and NoSQL databases, I'm dedicated to continuous growth and innovation. Let's build the future together! 💻✨🚀
