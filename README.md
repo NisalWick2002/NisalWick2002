@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/NisalWick2002?logo=github&style=for
 [![GitHub Trophies](https://github-profile-trophy-one-liard.vercel.app/?username=NisalWick2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/NisalWick2002)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NisalWick2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Top Contributed Repo](https://github-repository-contribution-stat-ten.vercel.app/api?username=NisalWick2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/NisalWick2002)
 
 
 
